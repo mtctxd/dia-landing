@@ -1,6 +1,6 @@
 # Dia landing page
 - [DEMO](https://mtctxd.github.io/dia-landing/)
-- [Figma Design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)))
+- [Figma Design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)
 --------
 * Implemented landing page using BEM
 * Adepted page for following screen resolutions:
