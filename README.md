@@ -3,7 +3,7 @@
 - [Figma Design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))
 --------
 * Implemented landing page using BEM
-* Adepted page for following screen resolutions:
+* Adapted page for following screen resolutions
   - Notebook (> 1280px)
   - Tablet 640 px
   - Mobile (> 320px)
